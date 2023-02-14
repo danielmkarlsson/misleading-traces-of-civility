@@ -1,3 +1,3 @@
 Misleading traces of civility
 
-Code and samples.
+Code and samples
